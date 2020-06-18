@@ -10,7 +10,10 @@ namespace Mais_Um_teste_Git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("-----------------------------------------------");
             Console.WriteLine("Olá Mundo");
+            Console.WriteLine("-----------------------------------------------");
+
 
             Console.WriteLine();
         }
